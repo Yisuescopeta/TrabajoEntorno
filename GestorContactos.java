@@ -37,6 +37,7 @@ public class GestorContactos {
                 actualizarNombre(contacto, scanner);
                 actualizarTelefono(contacto, scanner);
                 actualizarDireccion(contacto, scanner);
+      
                
             }else {
                 System.out.println("Usuario no encontrado");
